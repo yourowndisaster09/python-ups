@@ -7,7 +7,7 @@ LONG_DESC = """\
 A python wrapper to the UPS api, currently only supports the address validation api
 """
 
-setup(name='python-usps',
+setup(name='python-ups',
       version=VERSION,
       description="A python wrapper to the UPS api, currently only supports the address validation api",
       long_description=LONG_DESC,
